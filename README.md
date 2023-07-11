@@ -1,3 +1,8 @@
+![Screenshot 2023-07-11 175934](https://github.com/yagnikdevani00/responsive-website-html-css/assets/133557751/d473ed30-c368-48c2-a634-80a2b16f46ce)
+![Uploading Screenshot 2023-07-11 175913.png…]()
+![Uploading Screenshot 2023-07-11 180123.png…]()
+![Uploading Screenshot 2023-07-11 180104.png…]()
+![Uploading Screenshot 2023-07-11 180024.png…]()
 
 # Responsive Website
 
@@ -30,3 +35,9 @@ Before running the project locally, make sure you have the following:
 4. Customize the HTML, CSS, and JavaScript files according to your design preferences and website requirements.
 
 5. Start your web browser and open the HTML file to view the responsive website.
+
+## screenshot
+
+![Uploading Screenshot 2023-07-11 180001.png…]()
+![Uploading Screenshot 2023-07-11 175945.png…]()
+
